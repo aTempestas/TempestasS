@@ -1,10 +1,10 @@
 - 👋 Hiya, I’m @TempestasS
+<!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning VB.NET, C# and SQL
+<!--- - 💞️ I’m looking to collaborate on ... --->
+<!--- - 📫 How to reach me ... --->
 - 😄 Pronouns: She/Her
-<!-->- 👀 I’m interested in ...
-<!-->- 💞️ I’m looking to collaborate on ...
-<!-->- 📫 How to reach me ...
-<!-->- ⚡ Fun fact: ...
+<!--- - ⚡ Fun fact: ... --->
 
 <!---
 TempestasS/TempestasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
