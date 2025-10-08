@@ -1,6 +1,7 @@
 - 👋 Hiya, I’m @aTempestas
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning VB.NET, C# and SQL
+- 🌱 I’m currently studying to be a Fullstack Dev
+<!--- VB.NET, C# and SQL --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 - 😄 Pronouns: She/Her
